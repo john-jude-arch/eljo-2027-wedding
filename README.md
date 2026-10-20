@@ -13,11 +13,11 @@ A mobile-first, single-couple wedding website starter for Elizabeth & John.
 ## Wedding details currently included
 - Couple: Elizabeth & John
 - Date: Saturday, 2 January 2027
-- Church ceremony: 10:00 AM
-- Church venue: Holy Family Catholic Church, Karu-Upke, Obudu LGA, Cross River State
-- Reception: Karu Primary School
-- Traditional wedding: date, time, and venue not yet confirmed
-- Colours: emerald green, white/ivory, champagne gold, and burgundy
+- Wedding Mass: 10:00 AM
+- Venue: Holy Family Catholic Church, Karu-Upke, Obudu LGA, Cross River State
+- Reception: Karu Town Hall behind Primary Health Center PHC
+- Traditional wedding: Combined with the Reception 
+- Colours: emerald green, white, champagne gold, and burgundy
 
 ## Run locally
 Open `index.html` in a modern browser. The RSVP currently demonstrates a confirmation message only. It does not transmit or store guest information.
@@ -32,9 +32,6 @@ Open `index.html` in a modern browser. The RSVP currently demonstrates a confirm
 
 ## Domain ideas (availability not checked)
 - `eljo2027.com`
-- `eljo2027.ng`
-- `eljo2027.com.ng`
-- `eljo.wedding`
 
 A free host subdomain can be used for the first preview. A custom domain generally requires an annual registration fee.
 
